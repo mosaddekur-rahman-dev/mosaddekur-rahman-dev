@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mosaddekur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React, NextJs, Tailwind CSS, Javascript**
+
+- 💬 Ask me about **react, tailwind CSS, Javascript**
 
 - 📫 How to reach me **mosaddekur.rahman.dev@gmail.com**
 
