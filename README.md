@@ -1,3 +1,5 @@
+<img width="803" height="401" alt="Image" src="https://github.com/user-attachments/assets/0c2a0eef-9b0b-426a-a23e-69adf7ebf3e2" />
+
 <h1 align="center">Hi 👋, I'm Mosaddekur Rahman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
